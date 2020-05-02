@@ -1,7 +1,6 @@
 # -*- coding: utf-8-*-
 # Copyright (C) 2020 HandsomeYingyan@gmail.com
 # This Plugin is released under GPLV3
-# 郭荧炎的语音小车插件
 # 适用于l298n
 
 import time
